@@ -1,0 +1,42 @@
+Guuleed Maxamuud guuly05
+Prevent this user from interacting with your repositories and sending you notifications.
+            Learn more about blocking users .
+You must be logged in to block users.
+Contact GitHub support about this user’s behavior.
+          Learn more about reporting abuse .
+I build useful software, and I care what happens after launch.
+I’m a developer based in Hargeisa, Somaliland , working across frontend products, backend systems, automation, Linux, delivery workflows, and security.
+My centre of gravity is broader than a job title. I like taking a rough idea, making the problem clear, shaping an interface people can actually use, wiring the systems behind it, and leaving the whole thing more reliable than I found it. Security is an important part of how I think—not the only thing I build.
+I’m currently studying Computer Science at the University of Hargeisa while building production-oriented projects, writing technical and personal notes, and sharpening the fundamentals behind good software.
+The common thread is simple: software should feel considered on the surface and dependable underneath.
+Designed and shipped a production-grade English/Somali digital headquarters for a regional distributor. The platform turns a complex catalogue, branch network, logistics services, and procurement workflow into a clear path from discovery to inquiry.
+React TypeScript Tailwind CSS Cloudflare Workers Leaflet SEO Accessibility
+A private digital archive for Somali oral poetry, with structured metadata, OCR for printed text, footnotes, filtering, and shareable visual exports. This is one of the projects closest to my heart because it connects engineering with cultural memory.
+React TypeScript Firebase Firestore Tesseract.js
+An Android Markdown editor that parses documents and exports PDFs entirely on-device. It has no internet permission because privacy is part of the product, not a line added at the end.
+Kotlin Jetpack Compose Material 3 AST parsing PdfDocument
+A real-time investigation dashboard for IPs, domains, CVEs, threat feeds, and risk context. It keeps API keys on the server and gives analysts a faster way to move from an indicator to an informed next step.
+Next.js TypeScript TanStack Query Recharts Threat intelligence
+My portfolio is also a working application: case studies, a Markdown publishing system, route-aware SEO, protected contact, availability checks, calendar booking, Google Meet links, and a security-minded deployment model.
+React 19 Vite TypeScript Markdown Cloudflare Turnstile Google Calendar
+Explore the full portfolio →
+My security work has taught me to look past the happy path: how authentication fails, where access boundaries become unclear, what an operator sees during an incident, and whether a fix will survive contact with the real system.
+I work with vulnerability assessment, web and network testing, Linux hardening, secure coding, reporting, and security automation. My toolkit includes Nmap, Burp Suite, Nessus, OpenVAS, Metasploit, Wireshark, Linux, Bash, and Python , with working knowledge of OWASP Top 10, CVSS, threat intelligence, and incident-minded investigation .
+That perspective now follows me into everyday software engineering: validate inputs, protect secrets, design clear boundaries, document decisions, and make the safer path the easier path.
+When I’m away from the keyboard, I’m usually reading, watching anime, following manhwa, playing games, or thinking about the ideas hidden inside good stories. I’m drawn to strategy, consequence, resilience, and characters who rebuild something difficult from the ground up.
+That is probably why Gabay Keeper , Code Geass , The Art of War , and Greatest Estate Developer all make sense in the same personal universe: they are different ways of thinking about memory, systems, decisions, and what it takes to build under pressure.
+If you’re building a product, improving a system, learning security, or simply have a problem worth working through, I’d be glad to hear about it.
+Build useful things. Think securely. Finish with care.
+This repository contains the complete source code for my personal online resume and portfolio. It presents: My professional experience in personnel security, risk assessment, and compliance. Techni…
+TypeScript
+A Next.js cyber threat intelligence dashboard for monitoring simulated and live security indicators.
+TypeScript 1 1
+A robust, production-ready command-line tool that automates git push operations safely.
+Python
+NetVulnScanner is a lightweight, non-intrusive vulnerability scanner written in Python. It scans a target website, domain, or IP address for exposed TCP services, common web security misconfigurati…
+Python
+A production‑ready web scraper that combines Bash (orchestration), Go (concurrent scraping), and Python (data cleaning)
+Go 1 1
+This repo provides a complete, structured curriculum covering the essential principles, practices, and technologies required to protect modern information systems.
+There was an error while loading. Please reload this page .
+There was an error while loading. Please reload this page .
