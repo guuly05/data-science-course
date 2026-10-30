@@ -43,3 +43,17 @@ python web-scraper.py [URL]
 ```
 
 The script currently writes to a local path configured inside the file, so update that path if you run it from a different machine or folder.
+
+### Extracting a table to CSV
+
+`tables-extract.py` downloads a page, extracts one HTML table, and saves it as
+CSV. Rows with missing cells are padded so every CSV row has the same number
+of columns.
+
+```bash
+python tables-extract.py [URL] [OUTPUT_CSV] [TABLE_NUMBER]
+```
+
+All arguments are optional. The default URL is the GitHub profile used by the
+other exercise, the default output is `table.csv` beside the script, and the
+default table number is `1`.
