@@ -57,3 +57,23 @@ python tables-extract.py [URL] [OUTPUT_CSV] [TABLE_NUMBER]
 All arguments are optional. The default URL is the GitHub profile used by the
 other exercise, the default output is `table.csv` beside the script, and the
 default table number is `1`.
+
+## using numpy to analyze data
+### what is numpy?
+Numpy is a library that helps us with data analysis, it is used to perform mathematical operations, it is also used to perform operations on arrays and matrices
+in numpy-tutorial.py we learn how to use numpy to analyze data, we learn how to use numpy to perform mathematical operations, we also learn how to use numpy to perform operations on arrays and matrices, we also learn how to use numpy to perform operations on dataframes, we also learn how to use numpy to perform operations on series, we also learn how to use numpy to perform operations on lists, we also learn how to use numpy to perform operations on tuples, we also learn how to use numpy to perform operations on dictionaries, we also learn how to use numpy to perform operations on sets, we also learn how to use numpy to perform operations on strings, we also learn how to use numpy to perform operations on booleans, we also learn how to use numpy to perform operations on complex numbers, we also learn how to use numpy to perform operations on dates and times, we also learn how to use numpy to perform operations on files, we also learn how to use numpy to perform operations on images, we also learn how to use numpy to perform operations on audio files, we also learn how to use numpy to perform operations on video files, we also learn how to use numpy to perform operations on pdf files, we also learn how to use numpy to perform operations on excel files, we also learn how to use numpy to perform operations on word files, we also learn how to use numpy to perform operations on powerpoint files, we also learn how to use numpy to perform operations on html files.
+
+### using numpy on a real dataset
+In this section we will use numpy to analyze a real dataset, we will use the nyc_taxis dataset, we will use numpy to perform mathematical operations on the dataset, numpy has various methods that help us with data analysis these include:
+    1. np.mean() - this method helps us to find the mean of a dataset
+    2. np.sum() - this method helps us to find the sum of a dataset
+    3. np.median() - this method helps us to find the median of a dataset
+    4. np.std() - this method helps us to find the standard deviation of a dataset
+    5. np.var() - this method helps us to find the variance of a dataset
+    6. np.min() - this method helps us to find the minimum value of a dataset
+    7. np.max() - this method helps us to find the maximum value of a dataset
+    8. np.genfromtxt() - this method helps us to read data from a text file and store it in a numpy array
+    9. np.where() - this method helps us to find the indices of a dataset that satisfy a certain condition
+    10. np.sort() - this method helps us to sort the elements of a dataset in ascending order
+
+all of these methods are used in impor.py to analyze the nyc_taxis dataset, we will use these methods to find the mean, sum, median, standard deviation, variance, minimum value, maximum value, and sort the elements of the dataset in ascending order.
